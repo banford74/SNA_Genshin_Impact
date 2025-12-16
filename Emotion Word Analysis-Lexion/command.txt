@@ -1,0 +1,4 @@
+#EmoLex日语情绪语词词汇表：
+python xxx.py --dataPath genshin_xxx.csv --lexPath Japanese-NRC-Emolex.csv --lexNames Valence Arousal Dominance --savePath xxx_lexicon_result.csv
+#VAD日语情感强度词汇表：
+python xxx.py --dataPath genshin_xxx.csv --lexPath Japanese-NRC-VAD-Lexicon.csv --lexNames Valence Arousal Dominance --savePath xxx_VAD_result.csv
